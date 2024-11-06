@@ -26,4 +26,5 @@ class BasicSquare extends Square {
     public Sprite getSprite() {
         return null;
     }
+
 }
