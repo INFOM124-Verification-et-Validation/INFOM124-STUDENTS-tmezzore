@@ -27,4 +27,6 @@ class BasicSquare extends Square {
         return null;
     }
 
+
+
 }
